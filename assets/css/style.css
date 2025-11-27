@@ -110,7 +110,7 @@ h2 {
 }
 
 #contact .table-dark * {
-    background-color: transparent !important;
+    background-color: transparent;
 }
 
 /* grid visualisation CSS for testing */
