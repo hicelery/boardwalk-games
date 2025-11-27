@@ -68,6 +68,41 @@ h2 {
     color: var(--highlight-color);
     background-color: transparent;
 }
+
+/*media queries*/
+
+/*tablet and larger screens*/
+@media screen and (min-width: 768px) {
+    /*make all service cards the same height*/
+    #services .card-body {
+        min-height: 191px;
+    }
+}
+
+/*desktop and larger screens*/
+@media screen and (min-width: 992px) {
+    /*make all service cards the same height*/
+    #services .card-body {
+        min-height: auto;
+    }
+}
+
+/*desktop large and larger screens*/
+@media screen and (min-width: 1200px) {
+    /*make all service cards the same height*/
+    #services .card-body {
+        min-height: 220px;
+    }
+}
+
+/*extra large and larger screens*/
+@media screen and (min-width: 1400px) {
+    /*make all service cards the same height*/
+    #services .card-body {
+        min-height: 195px;
+    }
+}
+
 /* grid visualisation CSS for testing */
 
 /* .container,
