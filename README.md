@@ -3,12 +3,12 @@
 A dummy 'client-build' to exercise project planning and sound devOps knowledge. This focuses on tracking user stories to implement client requriements through github projects with custom labels and issue templates.
 
 
-#Project planning
+# Project planning
 Creating a kanban board with user stories enables us to best track feature requests and clearly defines acceptance criteria. Custom labels for MoSCoW prioritisation help sprint planning whilst still being able to compare priority of must-have issues.
 <img width="1262" height="847" alt="image" src="https://github.com/user-attachments/assets/e34d3bd2-101a-4032-993b-4bca7b38cc61" />
 
 
-#Testing
+# Testing
 Following smoke testing, lighthouse report is as follows
 <img width="932" height="1244" alt="image" src="https://github.com/user-attachments/assets/ab0ace98-9ce3-4543-aea2-2b069a3c6d41" />
 
